@@ -11,9 +11,9 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(array)
-  if array.length > 4 
+  if array.length > 4
     true
-  else 
+  else
     false
   end 
 end
